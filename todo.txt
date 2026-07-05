@@ -1,0 +1,13 @@
+TODO
+====
+
+[ ] Write the run.sh script
+[ ] Add a config.yaml with sane defaults
+[ ] Set up basic tests
+[ ] Decide on a real license
+[x] Create initial project files
+[ ] Replace placeholder modules with something useful
+[ ] Add CI pipeline
+[ ] Document the API once it exists
+[ ] Buy more coffee
+[ ] Stop adding non-tasks to this list

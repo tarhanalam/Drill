@@ -1,0 +1,13 @@
+NOTES
+=====
+
+- The quick brown fox jumps over the lazy dog.
+- Remember to water the plants on Tuesdays.
+- Random idea: build a CLI that renames files by their creation date.
+- Coffee count today: 3 (one too many).
+- Bug seen once, never reproduced. Classic.
+- API key rotation is overdue — check the vault.
+- Meeting notes: agreed to disagree, revisit next sprint.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Weather: cloudy with a chance of shipping.
+- TODO in notes are not real TODOs. See todo.txt for those.
