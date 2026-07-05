@@ -26,6 +26,7 @@ def bubble_sort(items: List[str]) -> List[str]:
     return items
 
 
-names: List[str] = ["Alberta", "BroCode", "Cat", "Dog"]
-bubble_sort(names)
-print(names)
+if __name__ == "__main__":
+    names: List[str] = ["Alberta", "BroCode", "Cat", "Dog"]
+    bubble_sort(names)
+    print(names)
